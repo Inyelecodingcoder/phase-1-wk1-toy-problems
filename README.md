@@ -1,1 +1,4 @@
 # phase-1-wk1-toy-problems
+Student grade generator - create a function 'grading' that prompts the user to input student marks. The input should be between 0 and 100. The output should correspond the correct grade as shown: A > 79, B - 60 t0 79, C - 59 to 49, D - 40 to 49, E - less 40
+Speed detector - create a function 'speed' that takes speed of a car as input. If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points.
+Netsalarycalculator - create a function 'netSalary' whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits.
